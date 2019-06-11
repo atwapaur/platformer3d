@@ -1,0 +1,36 @@
+*.apk
+*.csproj
+*.pidb
+*.sln
+*.userprefs
+*.unityproj
+*.DS_Store
+*.suo
+*.tmp
+*.user
+*.booproj
+*.svd
+*.pidb.meta
+*.suo
+*.obb
+
+# MS Office temp files, such as temp save file for plist excel sheet
+~$*
+
+# Max OS X generated files
+*.swp
+
+*.cache
+
+# Ignore regular Visual Studio binaries
+.vs/
+bin/
+obj/
+*csproj
+*unityproj
+*sln
+*userprefs
+*apk
+*/Library/*
+*/Temp/*
+
